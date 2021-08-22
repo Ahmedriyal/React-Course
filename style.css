@@ -1,0 +1,9 @@
+.hidden{
+    display: none!important;
+}
+
+.type-form{
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+}
